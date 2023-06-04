@@ -1,0 +1,12 @@
+{
+  "name": "com.iup.interacion-system",
+  "version": "0.0.1",
+  "displayName": "IUP Interacion System",
+  "description": "Система взаимодействия игрока с объектами в мире, вдохновлённая RPG старой школы.",
+  "author": {
+    "name": "PostEnot",
+    "email": "ve.vyshegorodsky.cold@gmail.com",
+    "url": "https://t.me/ProcyonNihil"
+  },
+  "type": "library"
+}
